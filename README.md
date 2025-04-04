@@ -2,7 +2,7 @@
 
 ## 📌 **Información General**
 **Clase:** Macroeconomia   
-**Profesor:** Marlene Achury Camargo 
+**Profesor:** Marlene Achury Camargo  
 **Institucion** Pontificia Universidad Javeriana
 
 ## 🎯 **Objetivo General**
